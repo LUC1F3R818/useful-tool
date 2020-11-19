@@ -1,2 +1,0 @@
-# useful-tool
-Myanmar
