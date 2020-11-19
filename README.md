@@ -4,4 +4,4 @@ $apt update
 $apt upgrade
 $pkg install git
 $pkg install python
-$git clone 
+$git clone https://github.com/LUC1F3R818/useful-tool/tree/master
